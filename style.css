@@ -3,6 +3,7 @@ div{
     flex-direction: column;
     align-items: flex-start;
     border: solid 1px #aaaa05;
+    background-color: #999999;
 }
 div input{
     margin: 10px 0;
