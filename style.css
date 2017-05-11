@@ -2,6 +2,7 @@ div{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    border: solid 1px #aaaa05;
 }
 div input{
     margin: 10px 0;
